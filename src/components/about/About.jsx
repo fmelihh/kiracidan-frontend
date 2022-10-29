@@ -11,7 +11,7 @@ const About = () => {
         <Back name='Hakkımızda' title='Hakkımızda - Biz Kimiz?' cover={img} />
         <div className='container flex mtop'>
           <div className='left row'>
-            <Heading title='Hakkımızda' subtitle='Check out our company story and work process' />
+            <Heading title='Hakkımızda' subtitle='' />
 
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>

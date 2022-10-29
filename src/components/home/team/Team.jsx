@@ -8,12 +8,12 @@ const Team = () => {
     <>
       <section className='team background'>
         <div className='container'>
-          <Heading title='Our Featured Agents' subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.' />
+          <Heading title='Ekip Arkadaşlarımız' subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.' />
 
           <div className='content mtop grid3'>
             {team.map((val, index) => (
               <div className='box' key={index}>
-                <button className='btn3'>{val.list} Listings</button>
+                <button className='btn3'>{val.list} Proje</button>
                 <div className='details'>
                   <div className='img'>
                     <img src={val.cover} alt='' />
@@ -31,7 +31,7 @@ const Team = () => {
                   <div className='button flex'>
                     <button>
                       <i className='fa fa-envelope'></i>
-                      Message
+                      Mesaj
                     </button>
                     <button className='btn4'>
                       <i className='fa fa-phone-alt'></i>
