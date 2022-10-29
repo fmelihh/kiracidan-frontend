@@ -1,16 +1,16 @@
-import React from "react"
-import Hero from "./hero/Hero"
-import Recent from "./recent/Recent"
-import Team from "./team/Team"
+import React from "react";
+import Hero from "./hero/Hero";
+import Recent from "./recent/Recent";
+import Team from "./team/Team";
 
 const Home = () => {
   return (
     <>
-      <Hero />
       <Recent />
+      <Hero />
       <Team />
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
