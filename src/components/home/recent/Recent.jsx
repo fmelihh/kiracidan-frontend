@@ -6,6 +6,9 @@ import RecentCard from "./RecentCard"
 const Recent = () => {
   return (
     <>
+      <aside>
+        
+      </aside>
       <section className='recent padding'>
         <div className='container'>
           <Heading title='Evler' subtitle='' />
