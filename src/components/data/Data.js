@@ -170,28 +170,28 @@ export const location = [
 export const team = [
   {
     list: "5",
-    cover: "../images/customer/team-1.jpg",
+    cover: "",
     address: "Ankara",
     name: "Akın KILIÇ",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "5",
-    cover: "../images/customer/team-2.jpg",
+    cover: "",
     address: "İstanbul",
     name: "Furkan Melih ERCAN",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "5",
-    cover: "../images/customer/team-3.jpg",
+    cover: "",
     address: "İstanbul",
     name: "Gülsüm DEMİRBAŞ",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "5",
-    cover: "../images/customer/team-4.jpg",
+    cover: "",
     address: "Kahramanmaraş",
     name: "Günay GÜL",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],

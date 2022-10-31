@@ -2,13 +2,13 @@ import React from "react"
 import ReactDOM from "react-dom/client"
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
-// import App from "./App"
+import App from "./App"
 // import Login from "./components/login/Login"
-import Register from "./components/register/Register"
+// import Register from "./components/register/Register"
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
   <React.StrictMode>
-    <Register />
+    <App />
   </React.StrictMode>
 )
